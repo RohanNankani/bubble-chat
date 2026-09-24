@@ -4,6 +4,9 @@ A branching, bubble-based AI chat application. Every conversation lives as a bub
 spatial canvas; highlight any part of a reply to spin off an independent child
 conversation, recursively, as deep as you want.
 
+<img width="2549" height="1302" alt="image" src="https://github.com/user-attachments/assets/f1d02974-adf9-4f49-9902-870e5cca2129" />
+
+
 ## Setup
 
 Requires Node.js 20+ and an [Anthropic API key](https://console.anthropic.com/settings/keys).
